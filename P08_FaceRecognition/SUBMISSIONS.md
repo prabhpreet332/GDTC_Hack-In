@@ -1,15 +1,13 @@
-## Mentees Submissions of Tasks
->> ### Day 1 : 
+## They did it!
 1) Harsh Patel 
 2) Shubham Chhimpa
 3) Dibyendu Maji
+4) Shweta Shukla
+5) Naman Bhandari
+6) Prabhpreet Singh
 
->> ### Day 2:
-1) Shubham Chhimpa
 
->> ### Day 3:
-1) Shubham Chhimpa
 
->> ### Day 4:
+
 
 
